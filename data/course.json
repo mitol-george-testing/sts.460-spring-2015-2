@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Historical Methods"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "55118bc3-68c2-d2de-fdb8-222e1f4e2fed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Histories of Information, Communication, and Computing Technologies",
+  "course_description": "The histories of information, communication, and computing technologies have attracted attention from scholars across a variety of disciplines. This course introduces students to prominent voices in these topics across fields. Alongside readings introducing students to this broad scholarly terrain, the course offers guidance in research and writing for publication based on the reality that PhD candidates on the job market need to be published authors, and that every term paper has the potential to be a journal article. We work towards publication by reading widely-cited scholarly histories both for their content and for what they can tell us about scholarly craft.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.460",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
